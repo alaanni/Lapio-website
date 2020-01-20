@@ -1,2 +1,9 @@
-p { background-color: red; }
+p { color: brown; }
+.otsikko {
+    color: brown;
+  }
+  ul {
+    color:pink;
+  }
+  
 
